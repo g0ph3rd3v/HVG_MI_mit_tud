@@ -3,21 +3,39 @@
 [Application 
 description](https://hvg.hu/tudomany/20230222_mi_mit_tud_mesterseges_intelligencia_media_uj_formatum_hvg_ai_palyazat_jelentkezes)
 
+# Tartalom
+1. [Az ötlet](#az-ötlet-megmentése)
+2. [Megvalósíthatóság](#megvalósíthatóság)
+3. [Piaci érték](#piaci-érték-potenciál)
+4. [Fenntarthatóság](#fenntarthatóság)
+5. [Médiapiaci igényre adott válaszok](#médiapiaci-igényre-adott-válaszok)
+____
+7. [Max](#max)
+8. [Szofia](#szófia)
+9. [Paolo](#paolo)
+10. [Születésnap](#születésnap)
+
 ___
 
-# Az ötlet megmentése  - A tartalom készítés hatékonyságának felrobbanása
+# Az ötlet megmentése
+### A tartalom készítés hatékonyságának felrobbanása
 
 A tartalomkészítés két céljával foglalkozunk. Az ismeretterjesztéssel és a közönséggel való kapcsolat kialakításával. Ebbe beletartozik a tartalmak többsége a reklámoktól, oktatási anyagoktól, híreken keresztül a mesékig. 
 Ezek előállítása során több kihívással találkozunk. 
 Sok ötlet nem jut el a megvalósításig.
+
 Képzeljük el a kreatív szövegírót, akinek vagy 1 hete kitalálni egy reklámszpotot az ügyfélnek. A storyboardolás, tesztelés, szövegfinomítások veszik el a munka nagy részét, ha nem találja el elsőre az irányt, rengeteg felesleges munkát végez.
-Információátadás személyre szabása nehéz és költséges.
+
+##### Információátadás személyre szabása nehéz és költséges.
 Komoly, komplex témák a kisgyerek életét is érintik, de hogy beszélgessen egy tanár a migránsválságról az általános iskolás tanulókkal? Csonka családban felnövésről ha a népszerű mesék a család egységét hirdetik?
-Figyelem fenntartása
+
+##### Figyelem fenntartása
 A figyelmet hangzatos vagy clickbait címekkel fel lehet kelteni, de a tartalom utána megmarad a megszokottnak. Folyamatosan megújulni, izgalmasan átadni egy komplex témát egy komoly kretív kihívás, ami elől elveszi az energiát a kötelező munka
-Hitelesség
+
+##### Hitelesség
 Fake news vagy clickbait, social médiában kitalált igazsságok vagy otthonról hozott előítéletek. Ha nincs is objektív igazság, de történelmi hitelesség létezik, ezeknek az infóknak a hiteles átadása kihívás, ha nem kapunk tényeket, és ezeket körüljáró sokoldalú nézőpontokat.
-Relevánsnak maradni
+
+##### Relevánsnak maradni
 A közösségi médiában sokszor órákon múlik a figyelem megszerzése, de ennyi idő alatt nagyon nehéz megérteni a problémát, engedélyeztetni a reakciót, megírni és reagálni. Ez vállalatoknak és hírportáloknak egyaránt veszteséget jelent.
 
 
@@ -29,14 +47,14 @@ Ezt felhasználva:
 
 A modell többek között a *Bookbolt*, *ChatGPT*, *MidJourney* és *DeepL* mesterséges intelligenciának tekintkető algoritmusait használja fel a tartalomgyártás hatákonyságának növelésére. 
 
-Megvalósíthatóság
+## Megvalósíthatóság
 
 - A felhasznált eszközök szabadon elérhetőek
 - A módszertannal gyorsan és könnyen előállítható bármilyen témakör, aminek van hiteles internetes forrásanyaga, vagy a fejünkben létezik.
 - Egy laptop elég a használatukhoz. 
 - A megvalósíthatóságot jól demonstrálja, hogy az AI kultúrán belüli szerepét körbejáró írásunk a modell használatával kevesebb mint 1 óra alatt az ötlettől a teljes finomhangolásig elkészült, és egyikünk sem gyakorlott író. 
 
-Piaci érték, potenciál
+## Piaci érték, potenciál
 
 Ismeretterjesztő könyvek, cikkek, történetek  és anyagok azonnali piacra kerülése, kihasználva az időbeli relevancia eddig nem elérhető hatását. Egy társadalmi, politikai, gazdasági kérdést azonnal megérthetővé tudunk tenni akár tanárként, akár hírportálként, akár vállalatként. Azonnal, amikor még midig releváns, nem veszítve el az adott pillanatban megragadható figyelmet.
 
@@ -71,7 +89,8 @@ A tartalomgyártás költsége csökken, ezért jobban megéri célzottan, egyed
 
 ___
 
-Max Németországból
+### Max
+Németországból
 
 <img title="" src="images/peet_A_curious_and_playful_young_inventor_from_Germany_surround_b8877657-2b68-4afb-83b2-c652d8537dcd.png" 
 alt="" width="405">
@@ -86,7 +105,8 @@ Hibák: Max néha túlságosan belefeledkezik a találmányaiba, elhanyagolva a 
 Kapcsolatok: Max felnéz Paolóra és az ő zenei tehetségére, és gyakran épít hanghatásokat a találmányaiba. Kicsit rivalizál Katarzynával is, mivel mindketten szeretnek mérnökösködni és építkezni.
 
 ___
-Szófia Bulgáriából
+### Szófia
+Bulgáriából
 
 <img title="" src="images/peet_A_spunky_adventurous_bee_from_Bulgaria_flying_through_a_fi_095ecf73-e776-403f-9334-f3d413286d2b.png" 
 alt="" width="405">
@@ -101,7 +121,8 @@ Hibák: Sofia néha túl impulzív vagy vakmerő tud lenni a kalandok keresésé
 Kapcsolatok: Sofia különleges kötelék fűzi Anához, aki gyakran segít neki meggyógyítani méhbarátait, ha azok megsérülnek. Charlie mesemondó képességére is felnéz, és szívesen hallgatja a kalandos történeteit.
 
 ___
-Paolo Olaszországból
+### Paolo
+Olaszországból
 
 <img title="" src="images/peet_A_charming_outgoing_musician_from_Italy_playing_a_lively_t_5bd6a7e3-2d0b-4673-970e-f93d93db8edf.png" 
 alt="" width="405">
@@ -119,7 +140,7 @@ Kapcsolatok: Paolo szoros kapcsolatot ápol Maxszel, aki gyakran épít be hangs
 
 ___
 
-### Cím: Születésnap
+### Születésnap
 
 Az új Művészeti Múzeum virtuális valóság szimulációjában József Attila egy futurisztikus konferenciateremben találja magát. A 
 falak csillogó üvegből készültek, a helyiséget pedig fejlett technológia tölti ki, amely mintha lüktetne és izzana az energiától.
