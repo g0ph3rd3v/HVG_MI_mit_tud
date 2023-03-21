@@ -47,7 +47,7 @@ A művészet mélyen személyes kifejezés, amely a művész szívéből és lel
 tudnak művészetet létrehozni.
 
 
-<img src="/image/peet_An_image_depicting_various_AI-generated_art_pieces_alongsi_efd32a43-a125-47c1-b9f4-efdde4d1e71b.png" 
+<img src="/images/peet_An_image_depicting_various_AI-generated_art_pieces_alongsi_efd32a43-a125-47c1-b9f4-efdde4d1e71b.png" 
 title="" alt="" width="367">
 
 GPT-3: Megértem az álláspontodat, József Attila. Azonban az emberi elme is múltbeli tapasztalatokon edződik, ahogyan a gépek is 
@@ -101,7 +101,7 @@ GPT-3: A mesterséges intelligencia által generált művészet értékes eszkö
 új művészeti területeket fedezzenek fel és kibővítsék kreatív képességeiket. 
 
 <img 
-src="/images/Downloads/peet_An_image_or_illustration_depicting_the_emotional_resonance_5b180946-c31e-4a43-9005-0fd49b0e9eba.png" 
+src="/images/peet_An_image_or_illustration_depicting_the_emotional_resonance_5b180946-c31e-4a43-9005-0fd49b0e9eba.png" 
 title="" alt="" width="368">
 
 Az emberek és a gépek közötti együttműködés új 
