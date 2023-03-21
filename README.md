@@ -71,6 +71,43 @@ A tartalomgyártás költsége csökken, ezért jobban megéri célzottan, egyed
 
 ___
 
+Max Németországból
+
+Személyiség: Max kíváncsi, játékos és találékony, szeret felfedezni és barkácsolni. Független is, és makacs tud lenni, ha valamit a fejébe vesz.
+
+Cél/motiváció: Max szeretne feltalálni valamit, ami forradalmasítja a világot, és könnyebbé és szórakoztatóbbá teszi az emberek életét.
+
+Előtörténet: Max feltalálói szenvedélye már kiskorában elkezdődött, és a szülei gyakran találtak rá, hogy szétszedte a háztartási gépeket, hogy megnézze, hogyan működnek. A barkácsolás miatt néhányszor bajba került az iskolában, de a tanárai felismerték a benne rejlő lehetőségeket, és bátorították, hogy folytassa az érdeklődését.  
+
+Hibák: Max néha túlságosan belefeledkezik a találmányaiba, elhanyagolva a másokkal való kapcsolatait, vagy figyelmen kívül hagyva a fontos feladatokat.
+Kapcsolatok: Max felnéz Paolóra és az ő zenei tehetségére, és gyakran épít hanghatásokat a találmányaiba. Kicsit rivalizál Katarzynával is, mivel mindketten szeretnek mérnökösködni és építkezni.
+
+___
+Szófia Bulgáriából:
+Személyiség: Sofia temperamentumos, kalandvágyó és hűséges, és tehetsége van a beporzáshoz és a többi méhvel való kommunikációhoz. Emellett nagyon érzékeny a környezeti problémákra, és fel tud háborodni, ha látja, hogy az emberek milyen negatív hatással vannak a természetre.  
+
+Cél/motiváció: Sofia szeretné felhívni a figyelmet a méhek és más beporzók fontosságára, és arra ösztönözni az embereket, hogy tegyenek lépéseket élőhelyük védelmében.  
+
+Előzmények: Sofia nagy tiszteletnek örvendő méhek hosszú sorából származik, és már fiatal korától kezdve képzett beporzó és kommunikátor lett. Szoros méhbarátok csoportja van, és együtt dolgoznak azon, hogy a méhkaptáruk egészséges és termelékeny maradjon.  
+
+Hibák: Sofia néha túl impulzív vagy vakmerő tud lenni a kalandok keresésében, veszélybe sodorva ezzel magát és másokat is.  
+Kapcsolatok: Sofia különleges kötelék fűzi Anához, aki gyakran segít neki meggyógyítani méhbarátait, ha azok megsérülnek. Charlie mesemondó képességére is felnéz, és szívesen hallgatja a kalandos történeteit.
+
+___
+Paolo Olaszországból:  
+Személyiség: Paolo bájos, társaságkedvelő és muzikális, bármilyen hangszeren játszani és fülbemászó dallamokat komponálni tud. Emellett rendkívül szociális, és szereti összehozni az embereket a zenén és a táncon keresztül.  
+
+Cél/motiváció: Paolo arra szeretné használni zenei tehetségét, hogy örömet és pozitív hangulatot terjesszen az egész EU-ban, és segítsen az embereknek elfelejteni a gondjaikat, még ha csak egy kis időre is.  
+
+Előzmények: Paolo zenész családban nőtt fel, és már fiatal korától kezdve sokféle műfajjal és hangszerrel találkozott. Gyorsan kifejlődött benne a zene iránti természetes tehetség, és tinédzserként saját dalokat kezdett komponálni. Szeret utazni és új zenei stílusokat és technikákat felfedezni.  
+
+Hibák: A zenei és zenei életben a legkülönfélébb dolgok vannak: Paolo néha kissé hivalkodó tud lenni, és elragadtatja magát a fellépéseivel, elhanyagolva más fontos feladatokat vagy kapcsolatokat.  
+
+Kapcsolatok: Paolo szoros kapcsolatot ápol Maxszel, aki gyakran épít be hangszereket és hangeffekteket a találmányaiba. Felnéz Katarzyna mérnöki képességeire is, és korábban már segített neki hangszereket építeni és tervezni.
+
+
+___
+
 ### Cím: Születésnap
 
 Az új Művészeti Múzeum virtuális valóság szimulációjában József Attila egy futurisztikus konferenciateremben találja magát. A 
