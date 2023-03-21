@@ -12,6 +12,8 @@ ___
 Az új Művészeti Múzeum virtuális valóság szimulációjában József Attila egy futurisztikus konferenciateremben találja magát. A 
 falak csillogó üvegből készültek, a helyiséget pedig fejlett technológia tölti ki, amely mintha lüktetne és izzana az energiától.
 
+
+
 József Attilának azonnal feltűnik a környezet furcsasága. Körülnéz, tájékozatlannak és helytelennek érzi magát. Nem meglepő, azt 
 hitte, hogy még mindig halott. Hirtelen észrevesz valamit, amitől felforr a vére. Az előtte lévő asztalon egy számítógép 
 képernyője van, és azon a képernyőn egy program, amely az ő nevét viseli: József Attila AI.
