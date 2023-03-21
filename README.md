@@ -1,9 +1,73 @@
 # HVG-MiMitTud
 
-Repository for our application to HVG's "MI Mit Tud"
-
 [Application 
 description](https://hvg.hu/tudomany/20230222_mi_mit_tud_mesterseges_intelligencia_media_uj_formatum_hvg_ai_palyazat_jelentkezes)
+
+___
+
+# Az ötlet megmentése  - A tartalom készítés hatékonyságának felrobbanása
+
+A tartalomkészítés két céljával foglalkozunk. Az ismeretterjesztéssel és a közönséggel való kapcsolat kialakításával. Ebbe beletartozik a tartalmak többsége a reklámoktól, oktatási anyagoktól, híreken keresztül a mesékig. 
+Ezek előállítása során több kihívással találkozunk. 
+Sok ötlet nem jut el a megvalósításig.
+Képzeljük el a kreatív szövegírót, akinek vagy 1 hete kitalálni egy reklámszpotot az ügyfélnek. A storyboardolás, tesztelés, szövegfinomítások veszik el a munka nagy részét, ha nem találja el elsőre az irányt, rengeteg felesleges munkát végez.
+Információátadás személyre szabása nehéz és költséges.
+Komoly, komplex témák a kisgyerek életét is érintik, de hogy beszélgessen egy tanár a migránsválságról az általános iskolás tanulókkal? Csonka családban felnövésről ha a népszerű mesék a család egységét hirdetik?
+Figyelem fenntartása
+A figyelmet hangzatos vagy clickbait címekkel fel lehet kelteni, de a tartalom utána megmarad a megszokottnak. Folyamatosan megújulni, izgalmasan átadni egy komplex témát egy komoly kretív kihívás, ami elől elveszi az energiát a kötelező munka
+Hitelesség
+Fake news vagy clickbait, social médiában kitalált igazsságok vagy otthonról hozott előítéletek. Ha nincs is objektív igazság, de történelmi hitelesség létezik, ezeknek az infóknak a hiteles átadása kihívás, ha nem kapunk tényeket, és ezeket körüljáró sokoldalú nézőpontokat.
+Relevánsnak maradni
+A közösségi médiában sokszor órákon múlik a figyelem megszerzése, de ennyi idő alatt nagyon nehéz megérteni a problémát, engedélyeztetni a reakciót, megírni és reagálni. Ez vállalatoknak és hírportáloknak egyaránt veszteséget jelent.
+
+
+A megoldásunk ezekre a kihívásokra egy olyan  módszertan, ami a mesterséges intelligenciát használva növeli a kreatív történetmesélés és információátadás hatékonyságát, és ezzel növeli a hangsúlyt az alkotás szabadságán és örömén, a gondolkodtatást megtartva. 
+
+Ezt felhasználva:
+- Egy alkotó a módszertannal a kezében több alkotást tud elkészíteni, mint eddig
+- Egy alkotáson az eddigi idő töredéke alatt tud javítani a try and error AI általi azonnalisága miatt. Több verziót tud kipróbálni 30 perc alatt mint eddig 3 nap alatt.
+
+A modell többek között a *Bookbolt*, *ChatGPT*, *MidJourney* és *DeepL* mesterséges intelligenciának tekintkető algoritmusait használja fel a tartalomgyártás hatákonyságának növelésére. 
+
+Megvalósíthatóság
+
+- A felhasznált eszközök szabadon elérhetőek
+- A módszertannal gyorsan és könnyen előállítható bármilyen témakör, aminek van hiteles internetes forrásanyaga, vagy a fejünkben létezik.
+- Egy laptop elég a használatukhoz. 
+- A megvalósíthatóságot jól demonstrálja, hogy az AI kultúrán belüli szerepét körbejáró írásunk a modell használatával kevesebb mint 1 óra alatt az ötlettől a teljes finomhangolásig elkészült, és egyikünk sem gyakorlott író. 
+
+Piaci érték, potenciál
+
+Ismeretterjesztő könyvek, cikkek, történetek  és anyagok azonnali piacra kerülése, kihasználva az időbeli relevancia eddig nem elérhető hatását. Egy társadalmi, politikai, gazdasági kérdést azonnal megérthetővé tudunk tenni akár tanárként, akár hírportálként, akár vállalatként. Azonnal, amikor még midig releváns, nem veszítve el az adott pillanatban megragadható figyelmet.
+
+A tanítás hatékonysága növekszik, egy oktató több anyagot tud leadni, szórakoztatóan, korcsoportnak megfeleően, lekötve a diákokat.
+
+Vállalatként a tartalmaink try and error alapú tesztelési ideje minimalizálódik. Ez a könnyebb tartalomgyártás több és jobb tartalmat eredményez. 
+
+A tartalomgyártás költsége csökken, ezért jobban megéri célzottan, egyedi csoportokra lőni. Létre lehet hozni mesekönyveket focisták, árvák, diszleksziások, zenészek, csonka családban élők főszereplésével, konfliktusaikkal, egyenesen megcélozva őket. Ki lehet számolni, hogy az adott kereslethez milyen terjesztési költség tartozik.
+
+
+## Fenntarthatóság
+
+- Egy alkotó vagy oktató több ideje szabadul fel az általa hasznosnak érzett tevékenységekre a hatékonyság növelés miatt. Kipihentebb, boldogabb, életvidámabb marad.
+
+- A könyebb produktivitás magasab elégedettséget okoz a személyes pszichében.
+
+- A társadalom gyorsabban tudja feldolgozni az információkat.
+
+- A társadalom kevésbé lesz kitéve a fake newsnak a tanuló modellek alapján.
+
+## Médiapiaci igényre adott válaszok
+
+- Fake news visszaszorítása
+- Objektívebb, hiiteles tájékoztatás
+- Kreatív munka hatékonyságának növelése
+- Egy író egységnyi idő alatt több ötletét valósíthatja meg kisebb költséggel
+- Tartalomgyártás költségének csökkenése
+- Egyedi történetek egyedi igényekre szabva a tömegtermelés igénye nélkül
+- Figyelmet lekötő tartalmak könyebb előállítása
+- Információátadás növelése
+- Azonnali válasz az online térben születő trendekre
 
 ___
 
@@ -94,6 +158,7 @@ GPT-3: Ez egy érdekes kérdés, amire nincs egyértelmű válasz. Bár a portr�
 portrét Mario Klingemann alkotta, aki az algoritmust tervezte és a végeredményt kurátora. Bizonyos értelemben a portré a gép és a 
 művész együttműködése. A mesterséges intelligencia generálta a képet, de Mario volt az, aki eldöntötte, hogy melyik képet 
 használja, és hogyan mutassa be azt. Ebben az értelemben tehát a portré létrehozása a művész és a gép közös munkája.
+
 József Attila: A mesterséges intelligencia által generált művészet azzal a veszéllyel jár, hogy a művészet "gyorséttermi" 
 változata lesz, amely olcsó és tartalmatlan. Ez az ember által létrehozott művészet értékének csökkenéséhez vezethet. Az emberi 
 művészet célja, hogy reflektáljon a szenvedéseinkre és előre vigye az emberiséget, változást hozzon létre.
