@@ -73,6 +73,9 @@ ___
 
 Max Németországból
 
+<img title="" src="images/peet_A_curious_and_playful_young_inventor_from_Germany_surround_b8877657-2b68-4afb-83b2-c652d8537dcd.png" 
+alt="" width="405">
+
 Személyiség: Max kíváncsi, játékos és találékony, szeret felfedezni és barkácsolni. Független is, és makacs tud lenni, ha valamit a fejébe vesz.
 
 Cél/motiváció: Max szeretne feltalálni valamit, ami forradalmasítja a világot, és könnyebbé és szórakoztatóbbá teszi az emberek életét.
@@ -83,7 +86,11 @@ Hibák: Max néha túlságosan belefeledkezik a találmányaiba, elhanyagolva a 
 Kapcsolatok: Max felnéz Paolóra és az ő zenei tehetségére, és gyakran épít hanghatásokat a találmányaiba. Kicsit rivalizál Katarzynával is, mivel mindketten szeretnek mérnökösködni és építkezni.
 
 ___
-Szófia Bulgáriából:
+Szófia Bulgáriából
+
+<img title="" src="images/peet_A_spunky_adventurous_bee_from_Bulgaria_flying_through_a_fi_095ecf73-e776-403f-9334-f3d413286d2b.png" 
+alt="" width="405">
+
 Személyiség: Sofia temperamentumos, kalandvágyó és hűséges, és tehetsége van a beporzáshoz és a többi méhvel való kommunikációhoz. Emellett nagyon érzékeny a környezeti problémákra, és fel tud háborodni, ha látja, hogy az emberek milyen negatív hatással vannak a természetre.  
 
 Cél/motiváció: Sofia szeretné felhívni a figyelmet a méhek és más beporzók fontosságára, és arra ösztönözni az embereket, hogy tegyenek lépéseket élőhelyük védelmében.  
@@ -94,7 +101,11 @@ Hibák: Sofia néha túl impulzív vagy vakmerő tud lenni a kalandok keresésé
 Kapcsolatok: Sofia különleges kötelék fűzi Anához, aki gyakran segít neki meggyógyítani méhbarátait, ha azok megsérülnek. Charlie mesemondó képességére is felnéz, és szívesen hallgatja a kalandos történeteit.
 
 ___
-Paolo Olaszországból:  
+Paolo Olaszországból
+
+<img title="" src="images/peet_A_charming_outgoing_musician_from_Italy_playing_a_lively_t_5bd6a7e3-2d0b-4673-970e-f93d93db8edf.png" 
+alt="" width="405">
+
 Személyiség: Paolo bájos, társaságkedvelő és muzikális, bármilyen hangszeren játszani és fülbemászó dallamokat komponálni tud. Emellett rendkívül szociális, és szereti összehozni az embereket a zenén és a táncon keresztül.  
 
 Cél/motiváció: Paolo arra szeretné használni zenei tehetségét, hogy örömet és pozitív hangulatot terjesszen az egész EU-ban, és segítsen az embereknek elfelejteni a gondjaikat, még ha csak egy kis időre is.  
